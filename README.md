@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![eppfel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eppfel&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eppfel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
