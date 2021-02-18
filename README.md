@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![eppfel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eppfel&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eppfel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=eppfel&theme=tokyonight&show_icons=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eppfel&theme=tokyonight&layout=compact" />
+  </a>
+</p>
